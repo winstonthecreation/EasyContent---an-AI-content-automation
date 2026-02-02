@@ -17,7 +17,7 @@ EasyContent automates the complete viral video creation process. What traditiona
 
 - **Live Demo**: [Landing Page](https://tinyurl.com/easycontent-landingpage)
 - **Try It**: [Airtable Interface](https://tinyurl.com/airtable-interfaces)
-- **Demo Video**: [Watch Demo](YOUR_VIDEO_URL)
+- **Demo Video**: [Watch Demo](https://youtu.be/AlzjyoYYg0M)
 
 ## How It Works
 
@@ -49,7 +49,7 @@ EasyContent automates the complete viral video creation process. What traditiona
 
 ## Architecture
 
-The system uses three Airtable databases (Research, Script, Edit) connected through n8n automation workflows. See [workflow diagram](documentation/workflow-diagram.png) for details.
+The system uses three Airtable databases (Research, Script, Edit) connected through n8n automation workflows. See [workflow diagram] for details.
 
 ## Team
 
