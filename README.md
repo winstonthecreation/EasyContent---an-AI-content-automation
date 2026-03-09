@@ -67,5 +67,3 @@ Built in 3 days | Remote collaboration
 [All Rights Reserved]
 
 ---
-
-**Questions?** Open an issue or reach out to [your contact]
